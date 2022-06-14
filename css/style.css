@@ -1,0 +1,103 @@
+
+
+/* Global Styles */
+body {
+    color: #343434;
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.5;
+}
+
+img {
+    width: 300px;
+}
+
+a {
+    color: #FFE66D;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+h2 {
+    margin: 0;
+    font-weight: lighter;
+}
+
+h3 {
+    font-style: italic;
+}
+
+
+.content-wrap {
+    width: 800px;
+    margin: 0 auto;
+    padding: 60px 0;
+}
+
+.content-wrap h2 span {
+    color: #A1C6D7;
+}
+
+
+/* Profile Styles */
+header {
+    background: #2f3061;
+    color: #f7f7f7;
+}
+
+header h2 {
+    letter-spacing: 3px;
+}
+
+header p {
+    font-size: 15px;
+    font-weight: lighter;
+}
+
+/* Projects Styles */
+.projects {
+    background: #f7f7f7;
+}
+
+.projects a {
+    color: #2f3061;
+}
+
+.projects .btn {
+    color: #f7f7f7;
+    background: #2f3061;
+    text-decoration: none;
+    padding: 8px;
+    border-radius: 4px;
+    display: inline-block;
+}
+
+.projects .btn:hover {
+    background: rgba(47, 48, 97, 80%);
+}
+
+
+/* Work Styles */
+.work-experience {
+    background: #A1C6D7;
+}
+
+
+
+/* Education Styles */
+
+
+
+/* Contact Info Styles */
+
+
+
+
+/* Footer Styles */
+footer {
+    background: #343434;
+    color: #f7f7f7;
+}
